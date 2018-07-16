@@ -14,14 +14,10 @@ class Question
 
     if response == "#{@int_a + @int_b}"
       puts "Correct!"
+    else
+      puts "Incorrect!"
     end
-
-    puts "response: #{response}"
-    puts "@int_a + @int_b: #{@int_a + @int_b}"
-
   end
-
-
 
 end
 
