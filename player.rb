@@ -6,7 +6,3 @@ class Player
   end
 
 end
-
-player1 = Player.new("Katie")
-
-p player1

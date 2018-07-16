@@ -21,7 +21,5 @@ class Question
 
 end
 
-
 question1 = Question.new(prng.rand(1..20),  prng.rand(1..20))
-
-p question1.ask
+# question1.ask
