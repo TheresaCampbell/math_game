@@ -34,6 +34,7 @@ class Game
     end
     puts "GAME OVER"
     puts "Goodbye"
+    exit
   end
 end
 
